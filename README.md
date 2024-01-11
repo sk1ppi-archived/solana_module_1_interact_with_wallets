@@ -2,10 +2,15 @@
 
 
 ![Made by](https://img.shields.io/badge/SK1PPI-8A2BE2)
-![GitHub License](https://img.shields.io/github/license/sk1ppi/solana_module_1_cryptography_and_the_solana_network)
+![GitHub License](https://img.shields.io/github/license/sk1ppi/solana_module_1_interact_with_wallets)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This app is a part of the [Solana Development Course](https://www.soldev.app/course) by [James Pacheco](https://twitter.com/jamesrp13) and [others](https://github.com/Unboxed-Software/solana-course/graphs/contributors?type=a). 
+It contains the code for the first module of the bootcamp, which is about interacting wallets on the Solana Network.
+
+View the [live demo](https://sk1ppi-solana-module-1-interact-with-wallets.vercel.app) on Vercel.
 
 ## Getting Started
 
